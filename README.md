@@ -58,8 +58,10 @@ h1 {background-color: red;}
 > "Nehmen Sie sich Zeit für ich selbst!"
 
 <details>
-    <summary>Klick hier für mehr Details</summary>
-    Hier sind zusätzliche Informationnen.
+<summary>Klick hier für mehr Infos:</summary>
+Öffnungszeiten:
+Mo-Fr von 10 - 19 Uhr
+Mi-Do von 09 - 14 Uhr
 </details>
 
 

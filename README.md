@@ -31,3 +31,14 @@ That is so funny! :joy:
 
 | abc | def | ghi |
 
+**Die Nature ist voller Wunder**
+
+_Sie bringt Ruhe und Frieden._
+
+~~Jede Jahreszeit hat ihren Charme.~~
+
+**_Natur lehrt uns Demut._**
+
+In ihr finden wir Harmonie.
+
+

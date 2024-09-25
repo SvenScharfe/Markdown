@@ -57,4 +57,12 @@ h1 {background-color: red;}
 
 > "Nehmen Sie sich Zeit für ich selbst!"
 
+<details>
+    <summary>Klick hier für mehr Details</summary>
+    Hier sind zusätzliche Informationnen.
+</details>
+
+
+
+
 

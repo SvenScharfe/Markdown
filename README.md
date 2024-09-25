@@ -12,12 +12,22 @@
 
 ### Tabelle
 
-| Technologie | Beschreibung |
+| Technologie | Beschreibung | Kommentare |
+| :---------: | :----------: | :--------: |
+| blablabla   | dingel       | ningel     |
 
 # TO DO
 
 - [x] erledigt
 - [ ] unerledigt
+
+---
+
+That is so funny! :joy:
+
+---
+
+***das macht Spaß***
 
 
 
